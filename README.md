@@ -1,4 +1,5 @@
 # python-
+```python
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
@@ -221,4 +222,4 @@ with open('pic.txt', 'r')as f:
     for line in f:
         print(line)
     f.close()
-
+```
